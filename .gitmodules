@@ -7,3 +7,6 @@
 [submodule "Selection-Components-Compose-Material3"]
 	path = Selection-Components-Compose-Material3
 	url = git@github.com:GetRighhttt/Selection-Components-Compose-Material3.git
+[submodule "TopAppBar-Material3-Compose"]
+	path = TopAppBar-Material3-Compose
+	url = git@github.com:GetRighhttt/TopAppBar-Material3-Compose.git
