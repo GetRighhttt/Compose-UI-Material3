@@ -10,3 +10,6 @@
 [submodule "TopAppBar-Material3-Compose"]
 	path = TopAppBar-Material3-Compose
 	url = git@github.com:GetRighhttt/TopAppBar-Material3-Compose.git
+[submodule "BottomAppBar-Material3-Compose"]
+	path = BottomAppBar-Material3-Compose
+	url = git@github.com:GetRighhttt/BottomAppBar-Material3-Compose.git
