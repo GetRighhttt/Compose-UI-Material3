@@ -13,3 +13,6 @@
 [submodule "BottomAppBar-Material3-Compose"]
 	path = BottomAppBar-Material3-Compose
 	url = git@github.com:GetRighhttt/BottomAppBar-Material3-Compose.git
+[submodule "LazyColumnCompose-Material3"]
+	path = LazyColumnCompose-Material3
+	url = git@github.com:GetRighhttt/LazyColumnCompose-Material3.git
